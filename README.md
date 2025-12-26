@@ -1,11 +1,13 @@
-   Visão Geral do Projeto
+Visão Geral do Projeto
 
 Este site foi desenvolvido para divulgar e fortalecer a presença digital do canal YLOUT, focado em conteúdos do jogo Point Blank, com ênfase em gameplay de Sniper, AWP e Rifles. O projeto funciona como uma landing page institucional do canal, centralizando informações, vídeos, identidade visual e chamadas para inscrição no YouTube.
 
 O site está hospedado no GitHub Pages, sendo acessado por meio de um link público compartilhado em vídeos do YouTube e outras redes sociais.
 
 
-  Objetivo do Site
+
+
+Objetivo do Site
 
 Apresentar o canal YLOUT de forma profissional
 
@@ -17,7 +19,9 @@ Destacar vídeos, shorts e conteúdos recentes
 
 Servir como base para crescimento futuro do canal
 
-  Tecnologias Utilizadas
+
+
+Tecnologias Utilizadas
 
 O site foi construído utilizando tecnologias front-end modernas, priorizando performance, visual impactante e responsividade:
 
